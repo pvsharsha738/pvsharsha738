@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @pvsharsha738
-- 👀 I’m interested in IOT
-- 🌱 I’m currently learning EMBEDDED SYSTEMS, PROGRAMMING
-- 💞️ I’m looking to collaborate on IOT PROJECTS
-- 📫 How to reach me pvsharsha738@gmail.com
-<!---
-pvsharsha738/module4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+PAYYAVULA VENKATA SAI SRIHARSHAVARDHAN CHOWDARY
+M.Tech in Embedded Systems and IOT
+Sathyabama Institute of Science & Technology, Chennai.
+Kavali, Andhra Pradesh, India.
+Electronics and Communication Engineering Background with having some experience in embedded systems & Iot Projects.
+I have experience & learning in various concepts like Human resource management, Education Consulting, Marketing, Business etc.,
+I had received lot of Prizes, Awards & Certificates in my Education.
+I am interested in Internet of Things, VLSI, Python Programming, Embedded Systems , Arduino projects & many more...
